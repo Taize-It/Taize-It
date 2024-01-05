@@ -1,5 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/taize-it/taize-it/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
+
 
 <p align="center"> I'm studying systems analysis and development and every day I'm more passionate ❤️ about the technology area. <br><br>  I'm focusing my studies on web development.  I intend to be able to contribute in the near future through the knowledge I have acquired. <strong>Available for internship.</strong> </p>&nbsp;
 
