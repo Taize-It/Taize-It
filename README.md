@@ -1,6 +1,6 @@
 
 
-<p align="center"> <strong>Hello World!</strong> I'm Taize Oliveira. I'm studying systems analysis and development and every day I'm more passionate ❤️ about the technology area. <br><br>  I'm focusing my studies on web development.  I intend to be able to contribute in the near future through the knowledge I have acquired. <strong>Available for internship.</strong> </p>&nbsp;
+<p align="center"> <strong>Hello World!</strong> I'm Taize Oliveira. I'm studying systems analysis and development and every day I'm more in love ❤️ about the technology area. <br><br>  I'm focusing my studies on web development.  I intend to be able to contribute in the near future through the knowledge I have acquired. <strong>Available for internship.</strong> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=taize-it&theme=radical&mode=weekly" />
