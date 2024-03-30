@@ -1,6 +1,6 @@
 
 
-<p align="center"> <strong>Olá mundo!</strong> Eu sou Taíze Oliveira. Graduanda em Análise e Desenvolvimento de Sistemas e a cada dia estou mais apaixonada ❤️ pela área de tecnologia. <br><br> Estou focando meus estudos em desenvolvimento web. Estou animada em integrar uma equipe dinâmica onde eu possa contribuir e continuar aprendendo e me desenvolvendo como profissional. Disponível para estágio. <strong>Available for internship.</strong> </p>&nbsp;
+<p align="center"> <strong>Olá mundo!</strong> Eu sou Taíze Oliveira. Graduanda em Análise e Desenvolvimento de Sistemas e a cada dia estou mais apaixonada ❤️ pela área de tecnologia. <br><br> Estou focando meus estudos em desenvolvimento web. Estou animada em integrar uma equipe dinâmica onde eu possa contribuir e continuar aprendendo e me desenvolvendo como profissional. <strong>Available for internship.</strong> </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=taize-it&theme=radical&mode=weekly" />
